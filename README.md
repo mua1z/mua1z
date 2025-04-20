@@ -56,7 +56,7 @@
 ## 🔗 Let's Connect
 
 - 💼 [LinkedIn]()
-- 🌐 [Portfolio](muaz-portfolio-mu.vercel.app)
+- 🌐 [Portfolio](https://muaz-portfolio-mu.vercel.app/)
 - 🐦 [Twitter](https://)
 - 📫 [Email](mailto:muazddu@gmail.com)
 
