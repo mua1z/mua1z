@@ -7,7 +7,7 @@
 - 🤝 **Collaborating**: Open to team-ups in Laravel, Flutter, and full-stack projects!  
 - 💡 **Ideating**: Crafting innovative platforms like Boostfy & ViewCash  
 - 🧰 **Specializing In**: Backend architecture, low-code/no-code, and monetization systems  
-- 📫 **Reach Me**: [yourname@email.com](mailto:yourname@email.com)  
+- 📫 **Reach Me**: [yourname@email.com](mailto:muazddu@gmail.com)  
 - ⚡ **Fun Fact**: I turn coffee ☕ into clean, maintainable code 💻
 
 ---
@@ -42,10 +42,10 @@
 ## 🔗 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/yourusername)
-- 🌐 [Portfolio](https://yourwebsite.com)
+- 🌐 [Portfolio](https://muaz-portfolio-mu.vercel.app/)
 - 🐦 [Twitter](https://twitter.com/yourhandle)
-- 📫 [Email Me](mailto:yourname@email.com)
+- 📫 [Email Me](mailto:muazddu@gmail.com)
 
 ---
 
-⭐ **Thanks for stopping by! Drop a star ⭐ on your favorite repo!**
+⭐ **Thanks for visiting! Drop a star ⭐ on your favorite project and let's build something epic together!**
