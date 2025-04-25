@@ -55,7 +55,7 @@
 
 ## 🔗 Let's Connect
 
-- 💼 [LinkedIn]()
+- 💼 [LinkedIn](https://www.linkedin.com/in/muaz-amin-3b0218362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 🌐 [Portfolio](https://muaz-portfolio-mu.vercel.app/)
 - 🐦 [Twitter](https://)
 - 📫 [Email](mailto:muazddu@gmail.com)
